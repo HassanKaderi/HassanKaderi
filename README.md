@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 I’m currently working on developing a 2D Physics enviornment in... Java
+🌱 I’m currently learning Java is probably not the best for game developement
+
+⚡ Fun facts: I drained hours into RuneScape and I have a severe gambling addiction to opening [Pokémon packs](https://unpackeronline.netlify.app/).
+
+💻 Languages: Java, JavaScript, C#, Python, Luau and CSS.
+
+📫 How to reach me: HassanImadKaderi@gmail.com
+
+
 <!--
 **HassanKaderi/HassanKaderi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

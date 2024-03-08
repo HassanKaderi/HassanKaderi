@@ -1,5 +1,4 @@
 ### Hi there 👋 My name is Hassan.
-My friends call me Abuuk (In arabic meaning your dad.)
 
 - 🔭 I’m currently working on developing a 2D Physics enviornment in... Java
 - 🌱 I’m currently learning Java is probably not the best for game developement
